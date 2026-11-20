@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Native High-Performance Self-Hosted SVG Header Banner -->
-<img src="https://raw.githubusercontent.com/xlinexcel/.github/main/profile/header.png" width="100%" alt="XLinExcel.com Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=220&section=header&text=XLinExcel.com&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Advanced%20Excel%20Modeling%20%E2%80%A2%20VBA%20Automation%20%E2%80%A2%20Power%20Query%20%26%20Dashboards&descFontSize=19&descAlignY=62" width="100%" alt="XLinExcel.com Header" />
 
 <!-- Live Dynamic Metrics & Badges -->
 <p align="center">
