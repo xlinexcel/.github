@@ -60,7 +60,7 @@
   <g transform="translate(427, 42)">
     <rect x="-130" y="-12" width="260" height="24" rx="12" fill="#111827" stroke="#22c55e" stroke-opacity="0.4" stroke-width="1" />
     <circle cx="-110" cy="0" r="4" fill="#22c55e" />
-    <text x="-95" y="4" class="tag">EXCEL INTELLIGENCE & AUTOMATION</text>
+    <text x="-95" y="4" class="tag">EXCEL INTELLIGENCE &amp; AUTOMATION</text>
   </g>
 
   <text x="427" y="108" text-anchor="middle" class="title">
@@ -68,6 +68,6 @@
   </text>
 
   <text x="427" y="142" text-anchor="middle" class="subtitle">
-    Advanced Excel Modeling • VBA Automation • Power Query & Dashboards
+    Advanced Excel Modeling • VBA Automation • Power Query &amp; Dashboards
   </text>
 </svg>
