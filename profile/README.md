@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Native High-Performance Self-Hosted SVG Header Banner -->
-<img src="https://raw.githubusercontent.com/xlinexcel/.github/main/profile/header.svg" width="100%" alt="XLinExcel.com Header" />
+<img src="https://raw.githubusercontent.com/xlinexcel/.github/main/profile/header.png" width="100%" alt="XLinExcel.com Header" />
 
 <!-- Live Dynamic Metrics & Badges -->
 <p align="center">
